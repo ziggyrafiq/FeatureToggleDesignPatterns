@@ -1,0 +1,15 @@
+I:\GitHub\FeatureToggleDesignPatterns\FeatureToggleExperiments\FeatureToggleFactory\bin\Debug\net8.0\FeatureToggleFactory.exe
+I:\GitHub\FeatureToggleDesignPatterns\FeatureToggleExperiments\FeatureToggleFactory\bin\Debug\net8.0\FeatureToggleFactory.deps.json
+I:\GitHub\FeatureToggleDesignPatterns\FeatureToggleExperiments\FeatureToggleFactory\bin\Debug\net8.0\FeatureToggleFactory.runtimeconfig.json
+I:\GitHub\FeatureToggleDesignPatterns\FeatureToggleExperiments\FeatureToggleFactory\bin\Debug\net8.0\FeatureToggleFactory.dll
+I:\GitHub\FeatureToggleDesignPatterns\FeatureToggleExperiments\FeatureToggleFactory\bin\Debug\net8.0\FeatureToggleFactory.pdb
+I:\GitHub\FeatureToggleDesignPatterns\FeatureToggleExperiments\FeatureToggleFactory\obj\Debug\net8.0\FeatureToggleFactory.GeneratedMSBuildEditorConfig.editorconfig
+I:\GitHub\FeatureToggleDesignPatterns\FeatureToggleExperiments\FeatureToggleFactory\obj\Debug\net8.0\FeatureToggleFactory.AssemblyInfoInputs.cache
+I:\GitHub\FeatureToggleDesignPatterns\FeatureToggleExperiments\FeatureToggleFactory\obj\Debug\net8.0\FeatureToggleFactory.AssemblyInfo.cs
+I:\GitHub\FeatureToggleDesignPatterns\FeatureToggleExperiments\FeatureToggleFactory\obj\Debug\net8.0\FeatureToggleFactory.csproj.CoreCompileInputs.cache
+I:\GitHub\FeatureToggleDesignPatterns\FeatureToggleExperiments\FeatureToggleFactory\obj\Debug\net8.0\FeatureToggleFactory.sourcelink.json
+I:\GitHub\FeatureToggleDesignPatterns\FeatureToggleExperiments\FeatureToggleFactory\obj\Debug\net8.0\FeatureToggleFactory.dll
+I:\GitHub\FeatureToggleDesignPatterns\FeatureToggleExperiments\FeatureToggleFactory\obj\Debug\net8.0\refint\FeatureToggleFactory.dll
+I:\GitHub\FeatureToggleDesignPatterns\FeatureToggleExperiments\FeatureToggleFactory\obj\Debug\net8.0\FeatureToggleFactory.pdb
+I:\GitHub\FeatureToggleDesignPatterns\FeatureToggleExperiments\FeatureToggleFactory\obj\Debug\net8.0\FeatureToggleFactory.genruntimeconfig.cache
+I:\GitHub\FeatureToggleDesignPatterns\FeatureToggleExperiments\FeatureToggleFactory\obj\Debug\net8.0\ref\FeatureToggleFactory.dll
